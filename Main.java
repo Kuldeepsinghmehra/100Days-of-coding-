@@ -1,36 +1,28 @@
 import java.util.*;
 public class Main {
-	public  void printNumber(int n)
-	{
-		int Even=0;
-		int odd=0;
-		int original=n;
-		while(original>0)
-		{
-            int rem=original%10;
-            if(rem%2==0)
-            {
-                Even+=rem;
-            }
-            else{
-                odd+=rem;
-            }
-            original=original/10;
-		}
-        System.out.println(Even+" "+odd);
-
-	}
-	
 	public static void main(String[] args) {
-		// Write your code here
-		int input;
-		Scanner sc=new Scanner(System.in);
-        input=sc.nextInt();
-		Main m=new Main();
-        m.printNumber(input);
-        
-
 		
+      
+	  int num=1634;
+	  int original=num;
+	  int rev=0;
+	  int sum=0;
+	  while(num>0)
+	  {
+		int rem=num%10;
+		sum+=rem*rem*rem;
+		num/=10;
+		
+	  }
+	  if(original==sum)
+	  {
+		System.out.println("armstrong");
+	  }
+	  else{
+		System.out.println("not armstrong");
+	  }
 
+
+	
 	}
 }
