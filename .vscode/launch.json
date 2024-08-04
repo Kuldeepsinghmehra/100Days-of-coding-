@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "largestOdd",
+            "request": "launch",
+            "mainClass": "largestOdd",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "outerParenthesis",
+            "request": "launch",
+            "mainClass": "outerParenthesis",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubarray",
+            "request": "launch",
+            "mainClass": "LongestSubarray",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Union",
+            "request": "launch",
+            "mainClass": "Union",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayhashingCollection",
+            "request": "launch",
+            "mainClass": "ArrayhashingCollection",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Bubblesort",
+            "request": "launch",
+            "mainClass": "Bubblesort",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyHashmap",
+            "request": "launch",
+            "mainClass": "FrequencyHashmap",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Insertionsort",
+            "request": "launch",
+            "mainClass": "Insertionsort",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Practise",
+            "request": "launch",
+            "mainClass": "Practise",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "RecursionFibonacci",
+            "request": "launch",
+            "mainClass": "RecursionFibonacci",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "Selectionsort",
+            "request": "launch",
+            "mainClass": "Selectionsort",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "SimpleSieve",
+            "request": "launch",
+            "mainClass": "SimpleSieve",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "arrayHashing",
+            "request": "launch",
+            "mainClass": "arrayHashing",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "betterSubarray",
+            "request": "launch",
+            "mainClass": "betterSubarray",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "bruteLeader",
+            "request": "launch",
+            "mainClass": "bruteLeader",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "bruteSubarray",
+            "request": "launch",
+            "mainClass": "bruteSubarray",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "characterHashing",
+            "request": "launch",
+            "mainClass": "characterHashing",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "duplicatesArray",
+            "request": "launch",
+            "mainClass": "duplicatesArray",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "leftRotate",
+            "request": "launch",
+            "mainClass": "leftRotate",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "leftrotateDplaces",
+            "request": "launch",
+            "mainClass": "leftrotateDplaces",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "lower",
+            "request": "launch",
+            "mainClass": "lower",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "palindroneString",
+            "request": "launch",
+            "mainClass": "palindroneString",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "secondLargest",
+            "request": "launch",
+            "mainClass": "secondLargest",
+            "projectName": "CodeP_8d3df586"
+        }
+    ]
+}
