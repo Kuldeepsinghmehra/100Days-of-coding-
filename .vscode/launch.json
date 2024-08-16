@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "isSortedRecursive",
+            "request": "launch",
+            "mainClass": "isSortedRecursive",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateSubset",
+            "request": "launch",
+            "mainClass": "DuplicateSubset",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "EquilibriumIndex",
+            "request": "launch",
+            "mainClass": "EquilibriumIndex",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "lcmNqt",
+            "request": "launch",
+            "mainClass": "lcmNqt",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "kaprekarNQT",
+            "request": "launch",
+            "mainClass": "kaprekarNQT",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
+            "name": "countVowelConstNQT",
+            "request": "launch",
+            "mainClass": "countVowelConstNQT",
+            "projectName": "CodeP_8d3df586"
+        },
+        {
+            "type": "java",
             "name": "largestOdd",
             "request": "launch",
             "mainClass": "largestOdd",
