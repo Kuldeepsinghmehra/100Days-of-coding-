@@ -1,6 +1,5 @@
 public class kaprekarNQT {
    public static int isKaprekar(int N) {
-        // code here
         int square= N*N;
         String result=Integer.toString(square);
         int size=result.length();
@@ -19,7 +18,7 @@ public class kaprekarNQT {
     public static void main(String[] args) {
         int num=45;
         kaprekarNQT.isKaprekar(num);
-        
+
     }
     
 }
