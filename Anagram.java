@@ -14,7 +14,7 @@ public class Anagram {
         s1="listen";
         s2="Ailent";
        boolean Result= Anagram.CheckAnagram(s1, s2);
-        System.out.println("Anagram result is "+Result);
+        System.out.println("Anagram  is "+Result);
     }
     
 }
